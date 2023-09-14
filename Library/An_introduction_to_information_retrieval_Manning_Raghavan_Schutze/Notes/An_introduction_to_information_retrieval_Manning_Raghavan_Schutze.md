@@ -2,6 +2,7 @@
 
 ## Chapters:
 - [[Boolean_retrieal]]
+- [[The_term_vocabulary_and_postings_lists]]
 - 
 
 ## File:
