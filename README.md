@@ -1,0 +1,1 @@
+This is a SS2024 Information Retrieval course at the JMU in Würzburg.
